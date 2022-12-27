@@ -4,7 +4,8 @@
 
 Как играть:
 
-1. Скачайте папку Build
+1. Скачайте папку Build 
+https://drive.google.com/drive/folders/1aLPXU15rLTQDCJBCj6Zv4xSslunYXvSG?usp=share_link
 2. Зарегистрируйте свой аккаунт
 2.1. Пароль может содержать только латинские буквы и цифры
 3. Играйте!
